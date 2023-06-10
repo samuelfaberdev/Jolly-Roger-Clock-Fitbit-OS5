@@ -1,6 +1,6 @@
 {
-  "name": "my-first-clock",
-  "version": "0.1.0",
+  "name": "jolly-roger-sdk6.1",
+  "version": "1.0.2",
   "private": true,
   "license": "UNLICENSED",
   "devDependencies": {
@@ -10,7 +10,7 @@
   "fitbit": {
     "appUUID": "938250dc-7912-48dc-80cb-e1da5c0e6f24",
     "appType": "clockface",
-    "appDisplayName": "My First Clock",
+    "appDisplayName": "Jolly Roger",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [
@@ -23,7 +23,7 @@
       "vulcan"
     ],
     "i18n": {},
-    "defaultLanguage": "en-US"
+    "defaultLanguage": "fr-FR"
   },
   "scripts": {
     "build": "fitbit-build",
